@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/Ab.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/commons-codec-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/hamcrest-all-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/httpclient-4.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/httpclient-cache-4.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/httpcore-4.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/httpmime-4.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/jgoodies-common.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/jgoodies-forms.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/joda-time-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/json-20090211.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/junit-4.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/sanmoku-0.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gus/Desktop/PROYECTO/Recursos/program-ab/lib/sanmoku-feature-ex-0.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
